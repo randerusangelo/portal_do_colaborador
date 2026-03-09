@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+    'matriculation'               => 'Matrícula',
+    'nome'                        => 'Primeiro Nome (Ex.: JOAO)',
+    'sobrenome'                   => 'Sobrenome (Ex.: PAULO DA SILVA JUNIOR)',
+    'full_name'                   => 'Nome Completo',
+    'cpf'                         => 'CPF',
+    'birth_date'                  => 'Data de Nascimento',
+    'nameMom'                     => 'Nome da Mãe',
+    'email'                       => 'Email',
+    'password'                    => 'Senha',
+    'retype_password'             => 'Repita a Senha',
+    'remember_me'                 => 'Lembrar-me',
+    'register'                    => 'Registrar',
+    'login'                       => 'Acessar',
+    'register_a_new_membership'   => 'Cadastre-se',
+    'i_forgot_my_password'        => 'Esqueci minha senha',
+    'i_already_have_a_membership' => 'Já sou cadastrado',
+    'sign_in'                     => 'Entrar',
+    'back_to_login'               => 'Voltar para o Login',
+    'log_out'                     => 'Sair',
+    'toggle_navigation'           => 'Trocar navegação',
+    'login_message'               => 'Entre para iniciar uma nova sessão',
+    'register_message'            => 'As informações registradas devem ser idênticas do Cadastro da Empresa',
+    'password_reset_message'      => 'Recuperar senha',
+    'reset_password'              => 'Recuperar senha',
+    'send_password_reset_link'    => 'Enviar link de recuperação de senha',
+];

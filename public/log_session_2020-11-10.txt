@@ -1,0 +1,7 @@
+> 10/11/2020 8:29:21 - ID: 1(LoginRequest)
+> 10/11/2020 8:29:22 - ID: 1(CreatePersistent)
+> 10/11/2020 8:29:27 - ID: 1(QuotesRequest)
+> 10/11/2020 8:29:55 - ID: 1(LoginRequest)
+> 10/11/2020 8:30:28 - ID: 1(LoginRequest)
+> 10/11/2020 8:30:28 - ID: 1(CreatePersistent)
+> 10/11/2020 8:30:33 - ID: 1(QuotesRequest)
